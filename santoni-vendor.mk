@@ -315,7 +315,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_cpp_hfr_90.so:system/vendor/lib/libchromatix_ov5675_ofilm_cpp_hfr_90.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_cpp_liveshot.so:system/vendor/lib/libchromatix_ov5675_ofilm_cpp_liveshot.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_cpp_preview.so:system/vendor/lib/libchromatix_ov5675_ofilm_cpp_preview.so \
-    vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_cpp_snapshot.so:system/vendor/lib/libchromatix_ov5675_ofilm_cpp_snapshot.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_cpp_video.so:system/vendor/lib/libchromatix_ov5675_ofilm_cpp_video.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_default_preview_3a.so:system/vendor/lib/libchromatix_ov5675_ofilm_default_preview_3a.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libchromatix_ov5675_ofilm_default_video.so:system/vendor/lib/libchromatix_ov5675_ofilm_default_video.so \
